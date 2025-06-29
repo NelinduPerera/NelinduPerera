@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nelindu minrutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelindu minrutha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nelindu-minrutha-8559a033b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelindu minrutha" height="30" width="40" /></a>
 <a href="https://fb.com/neliundu minrutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neliundu minrutha" height="30" width="40" /></a>
 <a href="https://instagram.com/nelindu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nelindu12" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/neliundu minrutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neliundu minrutha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@neliunduminrutha3398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neliundu minrutha" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/JZqUwRzJY9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JZqUwRzJY9" height="30" width="40" /></a>
 </p>
 
